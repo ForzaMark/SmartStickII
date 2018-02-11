@@ -1,0 +1,51 @@
+h1{
+  padding-bottom: 16px;
+  margin-bottom: 80px;
+  text-align: center;
+  color: #2bbbad;
+  text-decoration: underline;
+  font-family: 'Mukta Mahee', sans-serif;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #2bbbad;
+  border-radius: 15px
+}
+h2{
+  color:#2bbbad;
+  text-decoration: underline;
+}
+h3{
+  color:#2bbbad;
+  text-decoration: underline;
+}
+
+h4{
+  color:#2bbbad;
+  text-decoration: underline;
+}
+body{
+  width: 800px;
+  max-width: 90%;
+  margin: 0 auto !important;
+  padding-bottom: 100px;
+  background-color: #212121;
+
+
+}
+.background{
+  filter: brightness(0.5);
+  position: fixed;
+  top:0;
+  left:0;
+  width: 100%;
+  height: 100%;
+  z-index: -5;
+  object-fit: cover;
+}
+p{
+  color: white;
+  font-size: 16px;
+}
+.normal{
+  filter: brightness(0.6);
+}

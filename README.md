@@ -1,0 +1,3 @@
+# SmartStickII
+
+Der inteliegente Blindenstock
